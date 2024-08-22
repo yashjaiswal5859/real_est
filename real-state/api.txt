@@ -1,0 +1,24 @@
+// User Registration(sign-up)
+localhost:5000/api/auth/register
+
+// User Login
+localhost:5000/api/auth/login
+
+// add properties
+localhost:5000/api/properties/
+
+// view all properties
+localhost:5000/api/properties/
+
+// Search Properties
+localhost:5000/api/properties/search
+
+// Mark as Favorite
+localhost:5000/api/properties/favorite/:id
+
+// Get Favorites
+localhost:5000/api/properties/favorites
+
+// Delete Property
+localhost:5000/api/properties/:id
+
